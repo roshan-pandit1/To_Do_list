@@ -1,0 +1,30 @@
+div{
+    color: blue;
+    height:100%;
+    width:500px;
+    background-color: azure;
+}
+
+body{
+    background-color: cornsilk;
+}
+
+h1{
+    color:goldenrod
+}
+
+.delete{
+    color:brown;
+    border-radius: 15px;
+    border-width: 2px;
+    block-size: 25px;
+}
+
+.task{
+    color:green;
+    border-radius: 5px;
+}
+
+.place{
+    background-color: aliceblue;
+}
